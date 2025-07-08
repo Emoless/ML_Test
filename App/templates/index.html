@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Furniture Product Extractor</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 2em;
+            max-width: 600px;
+            margin: auto;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 0.5em;
+        }
+
+        button {
+            margin-top: 1em;
+            padding: 0.6em 1.2em;
+        }
+
+        .result {
+            margin-top: 2em;
+            background: #f4f4f4;
+            padding: 1em;
+            border-radius: 5px;
+        }
+
+        ul {
+            padding-left: 1.5em;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>🪑 Furniture Product Extractor</h1>
+    <form method="POST" action="/extract">
+        <label for="url">Enter product page URL:</label><br>
+        <input type="text" id="url" name="url" required><br>
+        <button type="submit">Extract Products</button>
+    </form>
+
+    {% if products %}
+    <div class="result">
+        <h3>📄 Extracted Text (input to model):</h3>
+        <pre
+            style="white-space: pre-wrap; background: #fff; padding: 1em; border: 1px solid #ccc; max-height: 300px; overflow-y: auto;">{{ extracted_text }}</pre>
+        </div>
+    <div class="result">
+        <h2>🧾 Extracted Products from {{ url }}:</h2>
+        <ul>
+            {% for product in products %}
+            <li>{{ product }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% elif error %}
+    <div class="result" style="color: red;">
+        <p><strong>Error:</strong> {{ error }}</p>
+    </div>
+    {% endif %}
+</body>
+
+</html>
