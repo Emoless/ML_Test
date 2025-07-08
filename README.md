@@ -1,6 +1,3 @@
-Here’s a polished README.md tailored as a “test assignment presentation” for your ML\_Test repo. It reflects your actual structure and positions the project as a showcase for an interview:
-
-
 # Furniture Product Extractor (ML_Test)
 
 > **Test Assignment**: extract furniture product names from arbitrary e‑commerce pages using a fine‑tuned NER model, wrapped in a Flask web app.
