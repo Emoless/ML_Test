@@ -1,0 +1,1740 @@
+[
+    {
+        "tokens": [
+            "Albert",
+            ":",
+            "Sofa"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "O",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Windsor",
+            "Bed"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Glen",
+            "Mirror"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "LINEA",
+            "SIDEBOARD",
+            "|",
+            "BUFFET"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "B-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "CHESTERFIELD",
+            "DIAMANTE",
+            "BED",
+            "FRAME",
+            "CRUSHED",
+            "VELVET",
+            "IN",
+            "VARIOUS",
+            "SIZES",
+            "AND",
+            "COLOURS"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "String",
+            "weave",
+            "timber",
+            "stool"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "B-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "French",
+            "Riviera",
+            "Paris",
+            "3",
+            "Drawer",
+            "Executive",
+            "Writing",
+            "Desk",
+            "RMY238"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Cube",
+            "Ottoman",
+            "5",
+            "-",
+            "in-1",
+            "Nesting",
+            "Stools",
+            "(",
+            "20",
+            "\"",
+            ")"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Arncliffe",
+            "Pop",
+            "Bench"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "O",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "White",
+            "Wood",
+            "Dining",
+            "Table"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Bertha",
+            "Chair"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Jack",
+            "Leather",
+            "and",
+            "Wood",
+            "Stool",
+            "-",
+            "Tan"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "The",
+            "Stag",
+            "Geo",
+            "Sideboard"
+        ],
+        "labels": [
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Lipa",
+            "Barstool"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "42",
+            "\"",
+            "Tennant",
+            "Brand",
+            "Beatrice",
+            "Navy",
+            "Blue",
+            "Modern",
+            "Bathroom",
+            "Sink",
+            "Vanity"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "B-PRODUCT",
+            "O",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "I-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Round",
+            "Vintage",
+            "Zinc",
+            "Tray"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "B-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Sweden",
+            "Teak",
+            "Side",
+            "Coffee",
+            "Table",
+            "60",
+            "x",
+            "60",
+            "cm"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Colosso",
+            "Woven",
+            "Neoprene",
+            "Hand",
+            "Knotted",
+            "Baskets"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "Samson",
+            "Daybed",
+            "Single"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "tip",
+            "table",
+            "lamp"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "100",
+            "Classic",
+            "Leather",
+            "Sofa"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "B-PRODUCT"
+        ]
+    },
+    {
+        "tokens": [
+            "The",
+            "KIVIK",
+            "Sofa",
+            "is",
+            "perfect",
+            "for",
+            "cozy",
+            "evenings"
+        ],
+        "labels": [
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "MALM",
+            "Bed",
+            "Frame",
+            "in",
+            "black",
+            "oak"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "LACK",
+            "Side",
+            "Table",
+            "in",
+            "white",
+            "finish"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "EKTORP",
+            "Armchair",
+            "with",
+            "beige",
+            "cover"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "INGATORP",
+            "Dining",
+            "Table",
+            "seats",
+            "4",
+            "to",
+            "6"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "HEMNES",
+            "Bookcase",
+            "in",
+            "dark",
+            "brown"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "BILLY",
+            "Bookshelf",
+            "with",
+            "glass",
+            "doors"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "POÄNG",
+            "Chair",
+            "in",
+            "black",
+            "leather"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "NORDLI",
+            "Dresser",
+            "with",
+            "6",
+            "drawers"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "VITTSJÖ",
+            "TV",
+            "Unit",
+            "in",
+            "black",
+            "glass"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "PAX",
+            "Wardrobe",
+            "with",
+            "sliding",
+            "doors"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "KLIPPAN",
+            "Sofa",
+            "in",
+            "red",
+            "fabric"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "LIXHULT",
+            "Cabinet",
+            "in",
+            "yellow"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "STRANDMON",
+            "Wing",
+            "Chair",
+            "in",
+            "green"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "HAVSTA",
+            "Console",
+            "Table",
+            "in",
+            "gray"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Contact",
+            "our",
+            "customer",
+            "service",
+            "team"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Free",
+            "shipping",
+            "on",
+            "orders",
+            "over",
+            "$",
+            "100"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Add",
+            "to",
+            "cart",
+            "and",
+            "checkout",
+            "now"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Shop",
+            "our",
+            "latest",
+            "deals",
+            "online"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Our",
+            "store",
+            "is",
+            "open",
+            "daily"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Sign",
+            "up",
+            "for",
+            "our",
+            "newsletter"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Visit",
+            "our",
+            "showroom",
+            "in",
+            "Chicago"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Explore",
+            "our",
+            "product",
+            "catalog"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Customer",
+            "reviews",
+            "are",
+            "available"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Save",
+            "on",
+            "your",
+            "next",
+            "purchase"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Join",
+            "our",
+            "loyalty",
+            "program"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Get",
+            "a",
+            "discount",
+            "today"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "We",
+            "offer",
+            "free",
+            "delivery"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Track",
+            "your",
+            "order",
+            "online"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Browse",
+            "our",
+            "website",
+            "for",
+            "more",
+            "info"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "The",
+            "KIVIK",
+            "Sofa",
+            "is",
+            "perfect",
+            "for",
+            "cozy",
+            "evenings"
+        ],
+        "labels": [
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "MALM",
+            "Bed",
+            "Frame",
+            "in",
+            "black",
+            "oak"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "LACK",
+            "Side",
+            "Table",
+            "in",
+            "white",
+            "finish"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "EKTORP",
+            "Armchair",
+            "with",
+            "beige",
+            "cover"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "INGATORP",
+            "Dining",
+            "Table",
+            "seats",
+            "4",
+            "to",
+            "6"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "HEMNES",
+            "Bookcase",
+            "in",
+            "dark",
+            "brown"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "BILLY",
+            "Bookshelf",
+            "with",
+            "glass",
+            "doors"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "POÄNG",
+            "Chair",
+            "in",
+            "black",
+            "leather"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "NORDLI",
+            "Dresser",
+            "with",
+            "6",
+            "drawers"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "VITTSJÖ",
+            "TV",
+            "Unit",
+            "in",
+            "black",
+            "glass"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "PAX",
+            "Wardrobe",
+            "with",
+            "sliding",
+            "doors"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "KLIPPAN",
+            "Sofa",
+            "in",
+            "red",
+            "fabric"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "LIXHULT",
+            "Cabinet",
+            "in",
+            "yellow"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "STRANDMON",
+            "Wing",
+            "Chair",
+            "in",
+            "green"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "HAVSTA",
+            "Console",
+            "Table",
+            "in",
+            "gray"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Contact",
+            "our",
+            "customer",
+            "service",
+            "team"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Free",
+            "shipping",
+            "on",
+            "orders",
+            "over",
+            "$",
+            "100"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Add",
+            "to",
+            "cart",
+            "and",
+            "checkout",
+            "now"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Shop",
+            "our",
+            "latest",
+            "deals",
+            "online"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Our",
+            "store",
+            "is",
+            "open",
+            "daily"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Sign",
+            "up",
+            "for",
+            "our",
+            "newsletter"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Visit",
+            "our",
+            "showroom",
+            "in",
+            "Chicago"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Explore",
+            "our",
+            "product",
+            "catalog"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Customer",
+            "reviews",
+            "are",
+            "available"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Save",
+            "on",
+            "your",
+            "next",
+            "purchase"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Join",
+            "our",
+            "loyalty",
+            "program"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Get",
+            "a",
+            "discount",
+            "today"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "We",
+            "offer",
+            "free",
+            "delivery"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Track",
+            "your",
+            "order",
+            "online"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Browse",
+            "our",
+            "website",
+            "for",
+            "more",
+            "info"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "The",
+            "KIVIK",
+            "Sofa",
+            "is",
+            "perfect",
+            "for",
+            "cozy",
+            "evenings"
+        ],
+        "labels": [
+            "O",
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "MALM",
+            "Bed",
+            "Frame",
+            "in",
+            "black",
+            "oak"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "LACK",
+            "Side",
+            "Table",
+            "in",
+            "white",
+            "finish"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "EKTORP",
+            "Armchair",
+            "with",
+            "beige",
+            "cover"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "INGATORP",
+            "Dining",
+            "Table",
+            "seats",
+            "4",
+            "to",
+            "6"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "HEMNES",
+            "Bookcase",
+            "in",
+            "dark",
+            "brown"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "BILLY",
+            "Bookshelf",
+            "with",
+            "glass",
+            "doors"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "POÄNG",
+            "Chair",
+            "in",
+            "black",
+            "leather"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "NORDLI",
+            "Dresser",
+            "with",
+            "6",
+            "drawers"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "VITTSJÖ",
+            "TV",
+            "Unit",
+            "in",
+            "black",
+            "glass"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "PAX",
+            "Wardrobe",
+            "with",
+            "sliding",
+            "doors"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "KLIPPAN",
+            "Sofa",
+            "in",
+            "red",
+            "fabric"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "LIXHULT",
+            "Cabinet",
+            "in",
+            "yellow"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "STRANDMON",
+            "Wing",
+            "Chair",
+            "in",
+            "green"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "HAVSTA",
+            "Console",
+            "Table",
+            "in",
+            "gray"
+        ],
+        "labels": [
+            "B-PRODUCT",
+            "I-PRODUCT",
+            "I-PRODUCT",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Contact",
+            "our",
+            "customer",
+            "service",
+            "team"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Free",
+            "shipping",
+            "on",
+            "orders",
+            "over",
+            "$",
+            "100"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Add",
+            "to",
+            "cart",
+            "and",
+            "checkout",
+            "now"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Shop",
+            "our",
+            "latest",
+            "deals",
+            "online"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Our",
+            "store",
+            "is",
+            "open",
+            "daily"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Sign",
+            "up",
+            "for",
+            "our",
+            "newsletter"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Visit",
+            "our",
+            "showroom",
+            "in",
+            "Chicago"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Explore",
+            "our",
+            "product",
+            "catalog"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Customer",
+            "reviews",
+            "are",
+            "available"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    },
+    {
+        "tokens": [
+            "Save",
+            "on",
+            "your",
+            "next",
+            "purchase"
+        ],
+        "labels": [
+            "O",
+            "O",
+            "O",
+            "O",
+            "O"
+        ]
+    }         
+]
